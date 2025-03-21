@@ -1,6 +1,6 @@
 # Leetcode-Solutions
 
-| Serial Number | Module                  | Module Links                                                                |
+| Serial Number | Topic              | Topic problems                                                                |
 |--------------|------------------------|----------------------------------------------------------------------------|
 | 1            | Arrays                 | [Arrays](./Arrays/)                                                        |
 | 2            | String                 | [String](./String/)                                                        |
