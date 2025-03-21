@@ -2,4 +2,4 @@
 
 ## leetcode problems
 
-[Word Pattern](./Word Patter)
+[Word Pattern](./Word_Pattern.md)
