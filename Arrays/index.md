@@ -8,3 +8,4 @@
 - [Minimum Moves_to_Equal_Array](./Minimum_Moves_to_Equal_Array_elements.md)
 - [Minimum Moves_to_Equal_Array_II](./Minimum_Moves_to_Equal_Array_II.md)
 - [Max_Consecutive_Ones](./Max_Consecutive_Ones.md)
+- [Optimal Division](./Optimal_Division.md) 
