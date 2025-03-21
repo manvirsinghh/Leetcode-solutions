@@ -2,5 +2,5 @@
 
 theme: jekyll-theme-cayman
 markdown: kramdown
-include: ["Arrays"]
+include: ["Arrays", "String", "Mathematical-problems", "hashset-hashmap"]
 permalink: pretty
