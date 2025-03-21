@@ -2,4 +2,4 @@
 
 [Plus_one](./Plus_One.md)
 
-[Power(x,n](./Pow.md)
+[Power](./Pow.md)
