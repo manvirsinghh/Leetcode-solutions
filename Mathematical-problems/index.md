@@ -9,3 +9,5 @@
 - [Valid_perfect_square](./Valid_perfect_square.md)
 
 - [Number Complement](./Number_Complement.md)
+
+- [Binary_Number_with_Alternating_Bits](./Binary_Number_with_Alternating_Bits.md)
