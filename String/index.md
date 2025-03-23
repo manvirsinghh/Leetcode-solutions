@@ -7,3 +7,5 @@
 
 - [Backspace_String_Compare](./Backspace_String_Compare.md)
 
+- [first_unique_character_in_string](./first_unique_character_in_string.md)
+
