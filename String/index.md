@@ -11,3 +11,6 @@
 
 - [Reverse_vowels_of_string](./Reverse_vowels_of_string.md)
 
+- [Valid_anagrams](./Valid_anagram.md)
+
+
