@@ -9,3 +9,5 @@
 
 - [first_unique_character_in_string](./first_unique_character_in_string.md)
 
+- [Reverse_vowels_of_string](./Reverse_vowels_of_string.md)
+
