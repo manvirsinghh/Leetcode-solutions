@@ -14,3 +14,6 @@
 - [Height_Checker](,/Height_Checker.md)
 - [Camelcase_Matching](./Camelcase_Matching.md)
 - [Intersection_of_to_arrays_II](./Intersection_of_to_arrays_II.md)
+- [Sign_of_product_of_array](./Sign_of_product_of_array.md)
+- [Sum_of_unique_elements](./vSum_of_unique_elements.md)
+- [Number_of_students_doing_homework_at_given_time](./Number_of_students_doing_homework_at_given_time.md)
