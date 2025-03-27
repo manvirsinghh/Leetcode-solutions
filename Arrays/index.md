@@ -17,3 +17,4 @@
 - [Sign_of_product_of_array](./Sign_of_product_of_array.md)
 - [Sum_of_unique_elements](./vSum_of_unique_elements.md)
 - [Number_of_students_doing_homework_at_given_time](./Number_of_students_doing_homework_at_given_time.md)
+- [Number_of_good_pairs](./Number_of_good_pairs.md)
