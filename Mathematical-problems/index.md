@@ -15,3 +15,5 @@
 - [Check_if_straight_lines](./Check_if_straight_lines.md)
 
 - [Valid boomerang](./Valid_boomernag.md)
+
+- [no_with_evennoof_digits](no_with_evennoof_digits.md)
