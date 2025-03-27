@@ -14,6 +14,8 @@
 - [Valid_anagram](./Valid_anagram.md)
 
 - [Number_of_segments_in_string](./Number_of_segments_in_string.md)
+
+- [Find_encrypted_string](./Find_encrypted_string.md)
   
 
 
