@@ -19,3 +19,5 @@
 - [no_with_evennoof_digits](no_with_evennoof_digits.md)
 
 - [Type_of_triangle](./Type_of_triangle.md)
+
+- [max_countof_pos_and_neg_integer](./max_countof_pos_and_neg_integer.md)
