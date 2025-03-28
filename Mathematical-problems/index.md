@@ -21,3 +21,5 @@
 - [Type_of_triangle](./Type_of_triangle.md)
 
 - [max_countof_pos_and_neg_integer](./max_countof_pos_and_neg_integer.md)
+
+- [average_salary_excluding_maxandmin](./average_salary_excluding_maxandmin.md)
