@@ -17,3 +17,5 @@
 - [Valid boomerang](./Valid_boomernag.md)
 
 - [no_with_evennoof_digits](no_with_evennoof_digits.md)
+
+- [Type_of_triangle](./Type_of_triangle.md)
