@@ -23,3 +23,5 @@
 - [max_countof_pos_and_neg_integer](./max_countof_pos_and_neg_integer.md)
 
 - [average_salary_excluding_maxandmin](./average_salary_excluding_maxandmin.md)
+
+- -[subtract_the_product&sum_ofintger](./subtract_the_product&sum_ofintger.md)
