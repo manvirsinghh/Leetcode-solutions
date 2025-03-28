@@ -19,3 +19,4 @@
 - [Number_of_students_doing_homework_at_given_time](./Number_of_students_doing_homework_at_given_time.md)
 - [Number_of_good_pairs](./Number_of_good_pairs.md)
 - [Minimum_operations_to_make_allelements_divisibleby_three](./Minimum_operations_to_make_allelements_divisibleby_three.md)
+- [find_integer_added_toarray](./find_integer_added_toarray.md)
