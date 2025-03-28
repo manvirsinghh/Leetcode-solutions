@@ -16,6 +16,8 @@
 - [Number_of_segments_in_string](./Number_of_segments_in_string.md)
 
 - [Find_encrypted_string](./Find_encrypted_string.md)
+
+- [Existence_of_a_Substring_in_a_String_and_Its_Reverse](./Existence_of_a_Substring_in_a_String_and_Its_reverse.md)
   
 
 
