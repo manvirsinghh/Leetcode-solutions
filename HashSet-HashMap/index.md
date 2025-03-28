@@ -11,3 +11,5 @@
 - [check_if_sentence_is_panagran](./check_if_sentence_is_panagran.md)
 
 - [unique_no_of_occurences](./unique_no_of_occurences.md)
+
+- [ransome_note](./ransome_note.md)
