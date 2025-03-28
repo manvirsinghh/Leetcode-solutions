@@ -18,6 +18,8 @@
 - [Find_encrypted_string](./Find_encrypted_string.md)
 
 - [Existence_of_a_Substring_in_a_String_and_Its_Reverse](./Existence_of_a_Substring_in_a_String_and_Its_reverse.md)
+
+- [captialize_the_title](./captialize_the_title.md)
   
 
 
