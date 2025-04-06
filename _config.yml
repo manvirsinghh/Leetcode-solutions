@@ -2,6 +2,6 @@
 
 theme: jekyll-theme-cayman
 markdown: kramdown
-include: ["Arrays", "String", "Mathematical-problems", "HashSet-HashMap","Binary_Search" ,"Prefixsum_or_runningsum"]
+include: ["Arrays", "String", "Mathematical-problems", "HashSet-HashMap","Binary_Search" ,"Prefixsum_or_runningsum","linked_list"]
 
 
