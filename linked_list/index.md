@@ -10,4 +10,5 @@
 - [removeduplicatesfromsortedll.md](./removeduplicatell.md)
 - [reversed a linked list.md](./reversed_linked_list.md)
 - [remove a duplicates from sorted linked list 2.md](remove_duplicatesfrom_sortedlistII.md)
+- [rotate_linked-list](./rotate_linked_list.md)
 
